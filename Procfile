@@ -1,1 +1,0 @@
-web: ./Terminal_clock
