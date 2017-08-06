@@ -1,6 +1,6 @@
-# Terminal Clock
+# Terminal Clock [![Code Health](https://landscape.io/github/namila007/Terminal-Clock/master/landscape.svg?style=flat)](https://landscape.io/github/namila007/Terminal-Clock/master) [![Build Status](https://travis-ci.org/namila007/Terminal-Clock.svg?branch=master)](https://travis-ci.org/namila007/Terminal-Clock)
 
-[![Build Status](https://travis-ci.org/namila007/Terminal-Clock.svg?branch=master)](https://travis-ci.org/namila007/Terminal-Clock)
+
 
 
 Bash based live updating clock with colour changes
